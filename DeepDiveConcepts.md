@@ -1,0 +1,22 @@
+### Useful Links for How it works behind the hood
+---
+
+CORS - https://dev.to/jpomykala/what-is-cors-11kf
+
+HTTPS comics (recommended) - https://howhttps.works/episodes/
+
+Visualized JS engine - https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf
+
+Visualized JS prototypal inheritance - https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co
+
+JS rendering engine and tips - https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda
+
+JS Patterns - https://www.patterns.dev/posts/
+
+TypeScript Compiler - https://medium.com/jspoint/typescript-compilation-the-typescript-compiler-4cb15f7244bc
+
+Browser rendering - https://blog.logrocket.com/how-browser-rendering-works-behind-scenes/
+
+Chrome Browser deep dive - https://developer.chrome.com/blog/inside-browser-part1/
+
+Differences between concepts in FE development - https://thisthat.dev/
