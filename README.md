@@ -1,6 +1,6 @@
 # Developers-tools - Useful links for developers.
 
-Each md file includes useful links split by interest.
+Each item is directed to md file with useful links.
 
 [Deep Dive concepts](DeepDiveConcepts.md)
 
