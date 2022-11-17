@@ -15,6 +15,8 @@ JS Patterns - https://www.patterns.dev/posts/
 
 TypeScript Compiler - https://medium.com/jspoint/typescript-compilation-the-typescript-compiler-4cb15f7244bc
 
+Type declaration - https://medium.com/jspoint/typescript-type-declaration-files-4b29077c43
+
 Browser rendering - https://blog.logrocket.com/how-browser-rendering-works-behind-scenes/
 
 Chrome Browser deep dive - https://developer.chrome.com/blog/inside-browser-part1/
