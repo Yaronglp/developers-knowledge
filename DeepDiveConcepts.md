@@ -22,3 +22,5 @@ Browser rendering - https://blog.logrocket.com/how-browser-rendering-works-behin
 Chrome Browser deep dive - https://developer.chrome.com/blog/inside-browser-part1/
 
 Differences between concepts in FE development - https://thisthat.dev/
+
+Performance optimization - https://medium.com/@ferencalmasi/10-critical-performance-optimization-steps-you-should-take-b560a3fcf658
