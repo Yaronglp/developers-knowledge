@@ -8,4 +8,6 @@ Each md file includes useful links split by interest.
 
 [Work with Regex](REGEX.md)
 
+[Git](Git.md)
+
 [CSS tools](CSS.md)
