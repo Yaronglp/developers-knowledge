@@ -11,8 +11,6 @@ Visualized JS prototypal inheritance - https://dev.to/lydiahallie/javascript-vis
 
 JS rendering engine and tips - https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda
 
-JS Patterns - https://www.patterns.dev/posts/
-
 TypeScript Compiler - https://medium.com/jspoint/typescript-compilation-the-typescript-compiler-4cb15f7244bc
 
 Type declaration - https://medium.com/jspoint/typescript-type-declaration-files-4b29077c43
