@@ -1,4 +1,4 @@
-### Useful Links for Code infrasturcture
+### Useful Links for Code infrastructure
 ---
 
 Comment build files using Webpack - https://medium.com/nmc-techblog/comment-build-files-using-webpack-682db137b520
