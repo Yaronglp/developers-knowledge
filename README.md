@@ -8,10 +8,12 @@ Each item is directed to md file with useful links.
 
 [Infrastructure](Infrastructure.md)
 
+[Diagrams](Diagrams.md)
+
+[Git](Git.md)
+
 [Work with JSON](JSON.md)
 
 [Work with Regex](REGEX.md)
-
-[Git](Git.md)
 
 [CSS tools](CSS.md)
