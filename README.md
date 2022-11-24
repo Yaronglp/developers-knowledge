@@ -12,6 +12,8 @@ Each item is directed to md file with useful links.
 
 [Git](Git.md)
 
+[Web Accessibility](WebAccessibility.md)
+
 [Work with JSON](JSON.md)
 
 [Work with Regex](REGEX.md)
