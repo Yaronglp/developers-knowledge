@@ -3,13 +3,13 @@
 
 Interactive guide flexbox - https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
 
-Background Gradients: https://webgradients.com/
+CSS Cheatsheet - https://htmlcheatsheet.com/css/
 
-Shadow Generator: https://neumorphism.io/
+Background Gradients - https://webgradients.com/
 
-Color Pallete: https://mycolor.space/
+Shadow Generator - https://neumorphism.io/
 
-CSS Cheatsheet: https://htmlcheatsheet.com/css/
+Color Pallete - https://mycolor.space/
 
 Interactive game to learn flex - https://flexboxfroggy.com/
 
