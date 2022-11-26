@@ -22,3 +22,5 @@ Chrome Browser deep dive - https://developer.chrome.com/blog/inside-browser-part
 Differences between concepts in FE development - https://thisthat.dev/
 
 Performance optimization - https://medium.com/@ferencalmasi/10-critical-performance-optimization-steps-you-should-take-b560a3fcf658
+
+Web workers - https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a
