@@ -5,6 +5,8 @@ CORS - https://dev.to/jpomykala/what-is-cors-11kf
 
 HTTPS comics (recommended) - https://howhttps.works/episodes/
 
+V8 engine - https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e
+
 Visualized JS engine - https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf
 
 Visualized JS prototypal inheritance - https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co
