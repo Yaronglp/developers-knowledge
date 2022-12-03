@@ -14,3 +14,5 @@ Color Pallete - https://mycolor.space/
 Interactive game to learn flex - https://flexboxfroggy.com/
 
 Interactive game to learn Grid - https://cssgridgarden.com/
+
+BEM concept - https://medium.com/free-code-camp/a-quick-introduction-to-block-element-modifiers-bem-9df46d29b64c
