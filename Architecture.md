@@ -8,3 +8,5 @@ JS RORO Pattern - https://medium.com/free-code-camp/elegant-patterns-in-modern-j
 JS Patterns - https://www.patterns.dev/posts/
 
 Error handling TypeScript - https://kentcdodds.com/blog/get-a-catch-block-error-message-with-typescript
+
+Use function to return a frozen object - https://medium.com/free-code-camp/elegant-patterns-in-modern-javascript-ice-factory-4161859a0eee
