@@ -10,3 +10,5 @@ JS Patterns - https://www.patterns.dev/posts/
 Error handling TypeScript - https://kentcdodds.com/blog/get-a-catch-block-error-message-with-typescript
 
 Use function to return a frozen object - https://medium.com/free-code-camp/elegant-patterns-in-modern-javascript-ice-factory-4161859a0eee
+
+magic number (Anti-Pattern) - https://medium.com/@samaddico/programming-and-magic-numbers-f766e0cd1369
