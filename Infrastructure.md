@@ -12,3 +12,5 @@ Docker for Frontend developers - https://dev.to/akanksha_9560/docker-for-fronten
 Component generator using plop - https://medium.com/nmc-techblog/monorepo-components-generator-lerna-plop-2aa7f27a597a
 
 npm tips & tricks - https://javascript.plainenglish.io/as-a-front-end-engineer-8-useful-npm-coding-techniques-that-you-should-use-bc30b8503ba4
+
+How Yarn lock files work - https://robertcooper.me/post/how-yarn-lock-files-work-and-upgrading-dependencies
