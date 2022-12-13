@@ -10,6 +10,8 @@ Each item is directed to md file with useful links.
 
 [Diagrams](Diagrams.md)
 
+[Tips & Tricks](TipsTricks.md)
+
 [Git](Git.md)
 
 [Web Accessibility](WebAccessibility.md)
