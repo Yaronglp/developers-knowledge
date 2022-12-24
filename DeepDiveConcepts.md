@@ -11,6 +11,8 @@ Visualized JS engine - https://dev.to/lydiahallie/javascript-visualized-the-java
 
 Visualized JS prototypal inheritance - https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co
 
+Visualized JS Promises & async await - https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke
+
 JS rendering engine and tips - https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda
 
 TypeScript Compiler - https://medium.com/jspoint/typescript-compilation-the-typescript-compiler-4cb15f7244bc
