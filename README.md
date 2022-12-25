@@ -1,6 +1,6 @@
 # Useful links for developers - mostly for Web developers.
 
-Each item is directed to md file with useful links.
+Each item is directed to md file with useful articles.
 
 [Deep Dive concepts](DeepDiveConcepts.md)
 
