@@ -13,6 +13,8 @@ Visualized JS prototypal inheritance - https://dev.to/lydiahallie/javascript-vis
 
 Visualized JS Promises & async await - https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke
 
+Visualized CORS - https://dev.to/lydiahallie/cs-visualized-cors-5b8h
+
 JS rendering engine and tips - https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda
 
 TypeScript Compiler - https://medium.com/jspoint/typescript-compilation-the-typescript-compiler-4cb15f7244bc
