@@ -14,3 +14,5 @@ Use function to return a frozen object - https://medium.com/free-code-camp/elega
 magic number (Anti-Pattern) - https://medium.com/@samaddico/programming-and-magic-numbers-f766e0cd1369
 
 BEM concept - https://medium.com/free-code-camp/a-quick-introduction-to-block-element-modifiers-bem-9df46d29b64c
+
+CSR, SSR and both - https://betterprogramming.pub/why-you-should-use-islands-architecture-b4f291708a02
