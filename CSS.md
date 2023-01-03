@@ -20,3 +20,5 @@ Custom Border Radius - https://9elements.github.io/fancy-border-radius/
 CSS Clip Path Maker - https://bennettfeely.com/clippy/
 
 Interactive flexbox - https://bennettfeely.com/flexplorer/
+
+::marker pseudo-element - https://css-tricks.com/almanac/selectors/m/marker/
