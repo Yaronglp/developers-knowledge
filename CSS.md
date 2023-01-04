@@ -1,6 +1,8 @@
 ### Useful Links for CSS
 ---
 
+CSS Object Model (CSSOM) - https://css-tricks.com/an-introduction-and-guide-to-the-css-object-model-cssom/
+
 Interactive guide flexbox - https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
 
 CSS Cheatsheet - https://htmlcheatsheet.com/css/
