@@ -3,6 +3,8 @@
 
 CORS - https://dev.to/jpomykala/what-is-cors-11kf
 
+Visualized CORS - https://dev.to/lydiahallie/cs-visualized-cors-5b8h
+
 HTTPS comics (recommended) - https://howhttps.works/episodes/
 
 V8 engine - https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e
@@ -12,8 +14,6 @@ Visualized JS engine - https://dev.to/lydiahallie/javascript-visualized-the-java
 Visualized JS prototypal inheritance - https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co
 
 Visualized JS Promises & async await - https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke
-
-Visualized CORS - https://dev.to/lydiahallie/cs-visualized-cors-5b8h
 
 JS rendering engine and tips - https://blog.sessionstack.com/how-javascript-works-the-rendering-engine-and-tips-to-optimize-its-performance-7b95553baeda
 
