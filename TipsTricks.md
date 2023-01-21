@@ -8,3 +8,5 @@ A collection of keyboard shortcuts for different applications - https://usetheke
 Javascript style guide - https://github.com/airbnb/javascript/blob/master/README.md
 
 Collection of TypeScript type challenges - https://github.com/type-challenges/type-challenges
+
+Clean Code JavaScript Practicle Examples - https://github.com/ryanmcdermott/clean-code-javascript
