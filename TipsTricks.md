@@ -9,4 +9,4 @@ Javascript style guide - https://github.com/airbnb/javascript/blob/master/README
 
 Collection of TypeScript type challenges - https://github.com/type-challenges/type-challenges
 
-Clean Code JavaScript Practicle Examples - https://github.com/ryanmcdermott/clean-code-javascript
+Clean Code JavaScript Practical Examples - https://github.com/ryanmcdermott/clean-code-javascript
