@@ -1,6 +1,14 @@
-# Useful links for developers - mostly for Web developers.
+<div align="center">
+  <img src="https://img.shields.io/github/stars/Yaronglp/Developers-knowledge?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/Yaronglp/Developers-knowledge?style=flat-square" />
+  <img src="https://img.shields.io/github/contributors/Yaronglp/Developers-knowledge?style=flat-square" />
+</div>
 
-Each item is directed to md file with useful articles.
+<div align="center">
+  <h2>Useful Links for Developers</b> - Mostly Web Developers</h2>
+</div>
+
+<div align="center">
 
 [Deep Dive concepts](DeepDiveConcepts.md)
 
@@ -21,3 +29,6 @@ Each item is directed to md file with useful articles.
 [Work with Regex](REGEX.md)
 
 [CSS tools](CSS.md)
+</div>
+
+
