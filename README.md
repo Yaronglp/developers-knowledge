@@ -1,4 +1,10 @@
-# Useful links for developers - mostly for Web developers.
+<div>
+  <img src="https://img.shields.io/github/stars/Yaronglp/Developers-knowledge?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/Yaronglp/Developers-knowledge?style=flat-square" />
+  <img src="https://img.shields.io/github/contributors/Yaronglp/Developers-knowledge?style=flat-square" />
+</div>
+
+# Useful Links for Developers - Mostly Web developers.
 
 Each item is directed to md file with useful articles.
 
