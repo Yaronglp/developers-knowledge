@@ -18,6 +18,8 @@ Each item is directed to md file with useful articles.
 
 [Git](Git.md)
 
+[Icons](Icons.md)
+
 [Infrastructure](Infrastructure.md)
 
 [Tips & Tricks](TipsTricks.md)
