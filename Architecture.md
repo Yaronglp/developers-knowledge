@@ -18,3 +18,5 @@ BEM concept - https://medium.com/free-code-camp/a-quick-introduction-to-block-el
 CSR, SSR and both - https://betterprogramming.pub/why-you-should-use-islands-architecture-b4f291708a02
 
 Design System guide - https://thedesignsystem.guide/
+
+Web apps opinionated model cheatsheet - https://dev.to/costica/web-apps-my-mental-cheat-sheet-41ah
