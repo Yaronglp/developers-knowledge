@@ -24,3 +24,5 @@ CSS Clip Path Maker - https://bennettfeely.com/clippy/
 Interactive flexbox - https://bennettfeely.com/flexplorer/
 
 ::marker pseudo-element - https://css-tricks.com/almanac/selectors/m/marker/
+
+The Power of :has pseudo-class - https://webkit.org/blog/13096/css-has-pseudo-class/
