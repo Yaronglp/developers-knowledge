@@ -10,3 +10,5 @@ Javascript style guide - https://github.com/airbnb/javascript/blob/master/README
 Collection of TypeScript type challenges - https://github.com/type-challenges/type-challenges
 
 Clean Code JavaScript Practical Examples - https://github.com/ryanmcdermott/clean-code-javascript
+
+Optimal Images in HTML - https://www.builder.io/blog/fast-images
