@@ -13,4 +13,4 @@ Clean Code JavaScript Practical Examples - https://github.com/ryanmcdermott/clea
 
 Optimal Images in HTML - https://www.builder.io/blog/fast-images
 
-Packages semantic version calculation = https://semver.npmjs.com/
+Packages semantic version calculation - https://semver.npmjs.com/
