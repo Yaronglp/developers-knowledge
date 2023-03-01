@@ -12,3 +12,5 @@ Collection of TypeScript type challenges - https://github.com/type-challenges/ty
 Clean Code JavaScript Practical Examples - https://github.com/ryanmcdermott/clean-code-javascript
 
 Optimal Images in HTML - https://www.builder.io/blog/fast-images
+
+Packages semantic version calculation = https://semver.npmjs.com/
