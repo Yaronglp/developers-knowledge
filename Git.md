@@ -8,3 +8,5 @@ Effective pull request - https://nebulab.com/blog/a-guide-to-effective-pull-requ
 Git cheatsheet - http://git-cheatsheet.com/
 
 Specification for conventional commits - https://www.conventionalcommits.org/en/v1.0.0/
+
+Find Git command by AI driven - https://www.gitfluence.com/
