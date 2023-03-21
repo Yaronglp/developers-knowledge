@@ -10,3 +10,5 @@ Git cheatsheet - http://git-cheatsheet.com/
 Specification for conventional commits - https://www.conventionalcommits.org/en/v1.0.0/
 
 Find Git command by AI driven - https://www.gitfluence.com/
+
+Git under the hood - https://towardsdatascience.com/how-git-truly-works-cd9c375966f6
