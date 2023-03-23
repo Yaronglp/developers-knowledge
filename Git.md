@@ -11,4 +11,4 @@ Specification for conventional commits - https://www.conventionalcommits.org/en/
 
 Find Git command by AI driven - https://www.gitfluence.com/
 
-Git under the hood - https://towardsdatascience.com/how-git-truly-works-cd9c375966f6
+Git under the hood - https://towardsdatascience.com/how-git-truly-works-cd9c375966f6 (Good example - [gist](https://gist.github.com/branneman/6501d0d2310256396091400dc30b3e31))
