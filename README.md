@@ -24,6 +24,8 @@ Each item is directed to md file with useful articles.
 
 [Tips & Tricks](TipsTricks.md)
 
+[Tools](Tools.md)
+
 [Web Accessibility](WebAccessibility.md)
 
 [Work with JSON](JSON.md)
