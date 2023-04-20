@@ -32,3 +32,5 @@ Performance optimization - https://medium.com/@ferencalmasi/10-critical-performa
 Web workers - https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a
 
 JS Execution context & Execution stack - https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0
+
+JS Optimize long tasks on browsers - https://web.dev/optimize-long-tasks/
