@@ -16,3 +16,5 @@ Optimal Images in HTML - https://www.builder.io/blog/fast-images
 Packages semantic version calculation - https://semver.npmjs.com/
 
 HTTP codes - https://httpstat.us/
+
+JS observer API (Mutation, Intersection)- https://indepth.dev/posts/1348/observer-apis-in-javascript-part-i
