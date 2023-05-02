@@ -19,7 +19,9 @@ Interactive game to learn Grid - https://cssgridgarden.com/
 
 Custom Border Radius - https://9elements.github.io/fancy-border-radius/
 
-CSS Clip Path Maker - https://bennettfeely.com/clippy/
+Clip Path Maker - https://bennettfeely.com/clippy/
+
+Pie Chart Generator - https://bennettfeely.com/csspiechart/
 
 Interactive flexbox - https://bennettfeely.com/flexplorer/
 
