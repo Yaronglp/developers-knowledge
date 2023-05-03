@@ -22,3 +22,5 @@ Design System guide - https://thedesignsystem.guide/
 Web apps opinionated model cheatsheet - https://dev.to/costica/web-apps-my-mental-cheat-sheet-41ah
 
 DRY, KISS, YAGNI principles - https://henriquesd.medium.com/dry-kiss-yagni-principles-1ce09d9c601f
+
+Optimistic update - https://ilxanlar.medium.com/better-ux-with-optimistic-ui-b72665e1afdf
