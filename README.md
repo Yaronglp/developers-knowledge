@@ -8,7 +8,7 @@
 
 Each item is directed to md file with useful articles.
 
-[AI](AI)
+[AI](AI.md)
 
 [Architecture](Architecture.md)
 
