@@ -8,6 +8,8 @@
 
 Each item is directed to md file with useful articles.
 
+[AI](AI)
+
 [Architecture](Architecture.md)
 
 [CSS tools](CSS.md)
