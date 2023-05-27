@@ -20,3 +20,6 @@ HTTP codes - https://httpstat.us/
 JS observer API (Mutation, Intersection) - https://indepth.dev/posts/1348/observer-apis-in-javascript-part-i
 
 JS observer API (Resize, Performance) - https://indepth.dev/posts/1350/observer-apis-in-javascript-part-ii
+
+Trunk Based Development - https://www.freecodecamp.org/news/what-is-trunk-based-development/amp/
+
