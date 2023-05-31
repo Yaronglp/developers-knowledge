@@ -19,6 +19,8 @@ CSR, SSR and both - https://betterprogramming.pub/why-you-should-use-islands-arc
 
 Design System guide - https://thedesignsystem.guide/
 
+Brief on Design Tokens - https://spectrum.adobe.com/page/design-tokens/
+
 Web apps opinionated model cheatsheet - https://dev.to/costica/web-apps-my-mental-cheat-sheet-41ah
 
 DRY, KISS, YAGNI principles - https://henriquesd.medium.com/dry-kiss-yagni-principles-1ce09d9c601f
