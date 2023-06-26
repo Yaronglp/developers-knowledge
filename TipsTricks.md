@@ -23,3 +23,5 @@ JS observer API (Resize, Performance) - https://indepth.dev/posts/1350/observer-
 
 Trunk Based Development - https://www.freecodecamp.org/news/what-is-trunk-based-development/amp/
 
+Shell commands explanation by input - https://explainshell.com
+
