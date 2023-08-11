@@ -34,3 +34,5 @@ Web workers - https://blog.sessionstack.com/how-javascript-works-the-building-bl
 JS Execution context & Execution stack - https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0
 
 JS Optimize long tasks on browsers - https://web.dev/optimize-long-tasks/
+
+JS Critical rendering path - https://indepth.dev/posts/1498/101-javascript-critical-rendering-path
