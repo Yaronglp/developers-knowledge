@@ -25,3 +25,4 @@ Trunk Based Development - https://www.freecodecamp.org/news/what-is-trunk-based-
 
 Shell commands explanation by input - https://explainshell.com
 
+Above the Fold concept - https://www.semrush.com/blog/above-the-fold/
