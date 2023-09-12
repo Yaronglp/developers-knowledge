@@ -34,3 +34,5 @@ The Power of :has pseudo-class - https://webkit.org/blog/13096/css-has-pseudo-cl
 Color Formats - https://www.joshwcomeau.com/css/color-formats/
 
 Fallback font generator - https://screenspan.net/fallback
+
+CSS selectors visual guide - https://fffuel.co/css-selectors
