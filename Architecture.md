@@ -26,3 +26,5 @@ Web apps opinionated model cheatsheet - https://dev.to/costica/web-apps-my-menta
 DRY, KISS, YAGNI principles - https://henriquesd.medium.com/dry-kiss-yagni-principles-1ce09d9c601f
 
 Optimistic update - https://ilxanlar.medium.com/better-ux-with-optimistic-ui-b72665e1afdf
+
+Inversion of Control - https://kentcdodds.com/blog/inversion-of-control
