@@ -36,3 +36,5 @@ Color Formats - https://www.joshwcomeau.com/css/color-formats/
 Fallback font generator - https://screenspan.net/fallback
 
 CSS selectors visual guide - https://fffuel.co/css-selectors
+
+CSS cascade layers - https://www.smashingmagazine.com/2022/01/introduction-css-cascade-layers/
