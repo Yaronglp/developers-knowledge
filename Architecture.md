@@ -28,3 +28,5 @@ DRY, KISS, YAGNI principles - https://henriquesd.medium.com/dry-kiss-yagni-princ
 Optimistic update - https://ilxanlar.medium.com/better-ux-with-optimistic-ui-b72665e1afdf
 
 Inversion of Control - https://kentcdodds.com/blog/inversion-of-control
+
+JS Design Patterns - https://kinsta.com/blog/javascript-design-patterns/
