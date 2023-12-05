@@ -28,3 +28,5 @@ Shell commands explanation by input - https://explainshell.com
 Above the Fold concept - https://www.semrush.com/blog/above-the-fold/
 
 Console debugging - https://alan.norbauer.com/articles/browser-debugging-tricks
+
+Promise explained - https://www.freecodecamp.org/news/javascript-promise-object-explained/
