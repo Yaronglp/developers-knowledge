@@ -8,3 +8,5 @@ Folder Structure - https://dev.to/sathishskdev/part-2-folder-structure-building-
 Component Structure - https://dev.to/sathishskdev/part-3-component-structure-building-reusable-and-maintainable-components-in-react-54n6
 
 Component rerender checking - https://alexsidorenko.com/blog/react-app-render-often/
+
+When to use useMemo and useCallback - https://kentcdodds.com/blog/usememo-and-usecallback
