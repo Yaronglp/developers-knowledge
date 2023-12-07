@@ -24,6 +24,8 @@ Each item is directed to md file with useful articles.
 
 [Infrastructure](Infrastructure.md)
 
+[React](React.md)
+
 [Time Management](TimeManagement.md)
 
 [Tips & Tricks](TipsTricks.md)
