@@ -10,3 +10,5 @@ Component Structure - https://dev.to/sathishskdev/part-3-component-structure-bui
 Component rerender checking - https://alexsidorenko.com/blog/react-app-render-often/
 
 When to use useMemo and useCallback - https://kentcdodds.com/blog/usememo-and-usecallback
+
+Dynamic imports and code splitting - https://blog.logrocket.com/react-dynamic-imports-route-centric-code-splitting-guide/
