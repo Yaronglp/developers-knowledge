@@ -6,3 +6,5 @@ Clean code & Naming conventions - https://dev.to/sathishskdev/part-1-naming-conv
 Folder Structure - https://dev.to/sathishskdev/part-2-folder-structure-building-a-solid-foundation-omh
 
 Component Structure - https://dev.to/sathishskdev/part-3-component-structure-building-reusable-and-maintainable-components-in-react-54n6
+
+Component rerender checking - https://alexsidorenko.com/blog/react-app-render-often/
