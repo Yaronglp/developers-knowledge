@@ -12,3 +12,5 @@ Component rerender checking - https://alexsidorenko.com/blog/react-app-render-of
 When to use useMemo and useCallback - https://kentcdodds.com/blog/usememo-and-usecallback
 
 Dynamic imports and code splitting - https://blog.logrocket.com/react-dynamic-imports-route-centric-code-splitting-guide/
+
+Rerender guide - https://www.developerway.com/posts/react-re-renders-guide
