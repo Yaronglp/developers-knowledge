@@ -16,3 +16,5 @@ Dynamic imports and code splitting - https://blog.logrocket.com/react-dynamic-im
 Rerender guide - https://www.developerway.com/posts/react-re-renders-guide
 
 Closures in React - https://www.developerway.com/posts/fantastic-closures
+
+Components Composition - https://www.developerway.com/posts/components-composition-how-to-get-it-right
