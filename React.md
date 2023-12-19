@@ -18,3 +18,5 @@ Rerender guide - https://www.developerway.com/posts/react-re-renders-guide
 Closures in React - https://www.developerway.com/posts/fantastic-closures
 
 Components Composition - https://www.developerway.com/posts/components-composition-how-to-get-it-right
+
+High Order Component (HOC) in react hooks era - https://www.developerway.com/posts/higher-order-components-in-react-hooks-era
