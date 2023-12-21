@@ -32,3 +32,5 @@ Console debugging - https://alan.norbauer.com/articles/browser-debugging-tricks
 Promise explained - https://www.freecodecamp.org/news/javascript-promise-object-explained/
 
 HTML tags tricks - https://dev.to/yuridevat/html-can-do-this-part-1-3ab2
+
+Building SVG - https://svg-tutorial.com/
