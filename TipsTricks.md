@@ -36,3 +36,5 @@ HTML tags tricks - https://dev.to/yuridevat/html-can-do-this-part-1-3ab2
 Building SVG - https://svg-tutorial.com/
 
 TS Type Safety with Branded Types - https://egghead.io/blog/using-branded-types-in-typescript
+
+NPM ci vs NPM install - https://blog.bitsrc.io/stop-using-npm-install-in-your-ci-cd-pipeline-ba0378bbebfb
