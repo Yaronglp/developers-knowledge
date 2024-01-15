@@ -38,3 +38,5 @@ Building SVG - https://svg-tutorial.com/
 TS Type Safety with Branded Types - https://egghead.io/blog/using-branded-types-in-typescript
 
 NPM ci vs NPM install - https://blog.bitsrc.io/stop-using-npm-install-in-your-ci-cd-pipeline-ba0378bbebfb
+
+Garbage Collector experiments - https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3
