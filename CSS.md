@@ -40,3 +40,5 @@ CSS selectors visual guide - https://fffuel.co/css-selectors
 CSS cascade layers - https://www.smashingmagazine.com/2022/01/introduction-css-cascade-layers/
 
 CSS @scope - https://developer.chrome.com/articles/at-scope/
+
+CSS One-Line Upgrades (gems) - https://moderncss.dev/12-modern-css-one-line-upgrades/
