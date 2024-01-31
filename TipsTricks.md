@@ -40,3 +40,5 @@ TS Type Safety with Branded Types - https://egghead.io/blog/using-branded-types-
 NPM ci vs NPM install - https://blog.bitsrc.io/stop-using-npm-install-in-your-ci-cd-pipeline-ba0378bbebfb
 
 Garbage Collector experiments - https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3
+
+Snippet Tools - https://yaron-galperin.medium.com/exploring-snippet-tools-a-good-to-know-for-web-developers-652e6ac62e0e
