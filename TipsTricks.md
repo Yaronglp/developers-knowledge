@@ -44,3 +44,5 @@ Garbage Collector experiments - https://dev.to/codux/experiments-with-the-javasc
 Snippet Tools - https://yaron-galperin.medium.com/exploring-snippet-tools-a-good-to-know-for-web-developers-652e6ac62e0e
 
 Object Structured Clone (Object Deep-Copy) - https://www.builder.io/blog/structured-clone
+
+Understanding CORS (not deep dive but great explanation) - https://itnext.io/understanding-cors-4157bf640e11
