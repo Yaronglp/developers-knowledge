@@ -45,4 +45,6 @@ Snippet Tools - https://yaron-galperin.medium.com/exploring-snippet-tools-a-good
 
 Object Structured Clone (Object Deep-Copy) - https://www.builder.io/blog/structured-clone
 
-Understanding CORS (not deep dive but great explanation) - https://itnext.io/understanding-cors-4157bf640e11
+Understanding CORS (not deep dive but a great explanation) - https://itnext.io/understanding-cors-4157bf640e11
+
+Color Scheme from OS - https://medium.com/@avielbitton/optimizing-user-experience-adapting-color-schemes-directly-from-operating-system-settings-a9b654711201
