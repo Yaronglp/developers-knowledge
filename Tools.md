@@ -10,3 +10,5 @@ WebP, PNG, and JPEG compression - https://tinypng.com/
 Calculate package bundle's size - https://bundlephobia.com/
 
 JWT decode, verify and generate - https://jwt.io
+
+Web performance checker - https://yellowlab.tools/
