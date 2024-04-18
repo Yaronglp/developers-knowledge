@@ -30,3 +30,5 @@ Optimistic update - https://ilxanlar.medium.com/better-ux-with-optimistic-ui-b72
 Inversion of Control - https://kentcdodds.com/blog/inversion-of-control
 
 JS Design Patterns - https://kinsta.com/blog/javascript-design-patterns/
+
+Curry FN & Partial App - https://medium.com/dailyjs/why-the-fudge-should-i-use-currying-84e4000c8743
