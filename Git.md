@@ -18,3 +18,5 @@ Merge vs Rebase - https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 Interactive Git Learning - https://learngitbranching.js.org/
 
 Visualized Git Commands - https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1
+
+Github Awesome Profile - https://dev.to/kshyun28/how-to-make-your-awesome-github-profile-hog
