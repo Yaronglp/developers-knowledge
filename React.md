@@ -24,3 +24,5 @@ High Order Component (HOC) in react hooks era - https://www.developerway.com/pos
 Component as prop, 3 different patterns - https://www.developerway.com/posts/react-component-as-prop-the-right-way
 
 Children parents render relations - https://www.developerway.com/posts/react-elements-children-parents
+
+Server Components - https://www.joshwcomeau.com/react/server-components
