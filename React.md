@@ -26,3 +26,5 @@ Component as prop, 3 different patterns - https://www.developerway.com/posts/rea
 Children parents render relations - https://www.developerway.com/posts/react-elements-children-parents
 
 Server Components - https://www.joshwcomeau.com/react/server-components
+
+Visualized React Explanation - https://react.gg/visualized
