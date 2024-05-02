@@ -50,3 +50,5 @@ Understanding CORS (not deep dive but a great explanation) - https://itnext.io/u
 Color Scheme from OS - https://medium.com/@avielbitton/optimizing-user-experience-adapting-color-schemes-directly-from-operating-system-settings-a9b654711201
 
 Github Awesome Profile - https://dev.to/kshyun28/how-to-make-your-awesome-github-profile-hog
+
+Frontend Roadmap - https://roadmap.sh/frontend
