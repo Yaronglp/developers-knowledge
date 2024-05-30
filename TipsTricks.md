@@ -54,3 +54,5 @@ Github Awesome Profile - https://dev.to/kshyun28/how-to-make-your-awesome-github
 Frontend Roadmap - https://roadmap.sh/frontend
 
 Local Overrides DevTools- https://yaron-galperin.medium.com/local-overrides-in-the-browser-guide-for-web-developers-aa5fb6b40476
+
+Memory Leaks - https://blog.logrocket.com/escape-memory-leaks-javascript
