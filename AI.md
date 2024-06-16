@@ -10,3 +10,5 @@ Generate meaningful tests and code explanations - https://www.codium.ai/
 Graph generator - https://github.com/varunshenoy/GraphGPT
 
 Personal AI - https://pi.ai
+
+Icon image generator - https://icons8.com/illustration-generator/
