@@ -18,3 +18,5 @@ Merge vs Rebase - https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 Interactive Git Learning - https://learngitbranching.js.org/
 
 Visualized Git Commands - https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1
+
+Git Branch Strategy - https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy
