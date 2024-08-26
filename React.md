@@ -30,3 +30,5 @@ Server Components - https://www.joshwcomeau.com/react/server-components
 Visualized React Explanation - https://react.gg/visualized
 
 Roadmap - https://roadmap.sh/react
+
+Compound Pattern - https://www.patterns.dev/react/compound-pattern
