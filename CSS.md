@@ -44,3 +44,5 @@ CSS @scope - https://developer.chrome.com/articles/at-scope/
 CSS One-Line Upgrades (gems) - https://moderncss.dev/12-modern-css-one-line-upgrades/
 
 Stack Contexts - https://www.joshwcomeau.com/css/stacking-contexts/
+
+CSS Time Based Animations - https://yuanchuan.dev/time-based-css-animations
