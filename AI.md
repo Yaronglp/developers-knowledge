@@ -12,3 +12,5 @@ Graph generator - https://github.com/varunshenoy/GraphGPT
 Personal AI - https://pi.ai
 
 Icon image generator - https://icons8.com/illustration-generator/
+
+Generate Visuals from Text - https://www.napkin.ai/
