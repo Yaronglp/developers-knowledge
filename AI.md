@@ -14,3 +14,5 @@ Personal AI - https://pi.ai
 Icon image generator - https://icons8.com/illustration-generator/
 
 Generate Visuals from Text - https://www.napkin.ai/
+
+Generate Web Apps Code using AI - https://bolt.new/
