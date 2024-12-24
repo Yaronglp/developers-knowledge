@@ -32,3 +32,5 @@ Inversion of Control - https://kentcdodds.com/blog/inversion-of-control
 JS Design Patterns - https://kinsta.com/blog/javascript-design-patterns/
 
 Curry FN & Partial App - https://medium.com/dailyjs/why-the-fudge-should-i-use-currying-84e4000c8743
+
+Browser Process Model - https://webperf.tips/tip/browser-process-model/
