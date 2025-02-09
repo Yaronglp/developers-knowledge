@@ -16,3 +16,5 @@ Icon image generator - https://icons8.com/illustration-generator/
 Generate Visuals from Text - https://www.napkin.ai/
 
 Generate Web Apps Code using AI - https://bolt.new/
+
+How Gen AI text works (include animations) - https://ig.ft.com/generative-ai/
