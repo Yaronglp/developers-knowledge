@@ -56,3 +56,5 @@ Frontend Roadmap - https://roadmap.sh/frontend
 Local Overrides DevTools- https://yaron-galperin.medium.com/local-overrides-in-the-browser-guide-for-web-developers-aa5fb6b40476
 
 Memory Leaks - https://blog.logrocket.com/escape-memory-leaks-javascript
+
+Daily Logs - https://dev.to/teamcamp/daily-logs-for-devs-how-a-5-minute-habit-can-10x-your-weekly-output-4peb
